@@ -4,11 +4,11 @@
 
 ## Eu sou o Kleiton!
 
--Tenho 29 anos, sou casado e tenho uma linda filha de 4 anos.
--Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
--Sou aluno da Blue EdTech, no curso de Desenvolvimento Web Full Stack.
+- Tenho 29 anos, sou casado e tenho uma linda filha de 4 anos.
+- Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
+- Sou aluno da Blue EdTech, no curso de Desenvolvimento Web Full Stack.
 
-Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
+- Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
 Busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
 
