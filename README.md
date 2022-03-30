@@ -18,4 +18,4 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 
 - Obrigado, pela visita! ;)
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KleitonLima/KleitonLima/blob/output/github-contribution-grid-snake.svg)
