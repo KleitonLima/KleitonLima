@@ -17,5 +17,3 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:kleiton.mini@gmail.com)
 
 - Obrigado, pela visita! ;)
-
-![Snake animation](https://github.com/KleitonLima/KleitonLima/blob/output/github-contribution-grid-snake.svg)
