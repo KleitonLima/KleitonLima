@@ -1,8 +1,8 @@
 # Seja bem vindo!
 
-## Eu sou o Kleiton!
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=highcontrast)
+
+## Eu sou o Kleiton!
 
 - Tenho 29 anos, sou casado e tenho uma linda filha de 4 anos.
 - Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
