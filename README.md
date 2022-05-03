@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://media0.giphy.com/media/MC6eSuC3yypCU/giphy.gif">
-
 # Seja bem vindo!
 
 ## Eu sou o Kleiton!
