@@ -2,12 +2,6 @@
 
 ## Eu sou o Kleiton!
 
-- Tenho 29 anos, sou casado e tenho uma linda filha de 4 anos.
-- Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
-- Sou aluno da Blue EdTech, no curso de Desenvolvimento Web Full Stack.
-> Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
-Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
-
 ---
 
 <br>
@@ -18,6 +12,12 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 <br>
 
 ---
+
+- Tenho 29 anos, sou casado e tenho uma linda filha de 4 anos.
+- Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
+- Sou aluno da Blue EdTech, no curso de Desenvolvimento Web Full Stack.
+> Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
+Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
 ## Minhas redes e contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/KleitonLima)
