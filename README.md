@@ -1,6 +1,6 @@
 # Seja bem vindo!
 
-![Anurag's GitHub stats] height=180em (https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=highcontrast)
+!height=180em [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=highcontrast)
 
 ## Eu sou o Kleiton!
 
