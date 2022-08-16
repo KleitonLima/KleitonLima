@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=vue-dark&custom_title=Kleiton's+Github+stats&include_all_commits=true&count_private=true">
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=vue-dark&custom_title=Kleiton%27s+Github+stats&include_all_commits=true&count_private=true">
    <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=vue-dark&langs_count=8">
 </div>
 <br>
