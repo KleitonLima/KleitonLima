@@ -6,8 +6,6 @@
 > Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
 Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
----
-
 <br>
 <div align="center">
    <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=vue-dark&custom_title=Kleiton's+Github+stats&count_private=true">
