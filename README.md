@@ -1,7 +1,5 @@
 # Seja bem vindo! Eu sou o Kleiton!
 
----
-
 - Tenho 30 anos, sou casado e tenho uma linda filha de 5 anos.
 - Atualmente, tenho uma empresa de manutenção em smartphones chamada Smartize Assistência Técnica.
 - Sou aluno da Blue EdTech, no curso de Desenvolvimento Web Full Stack.
