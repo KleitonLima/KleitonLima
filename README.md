@@ -8,10 +8,7 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 
 <br>
 <div align="center">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=vue-dark&custom_title=Kleiton's+Github+stats&count_private=true">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima)](https://github.com/anuraghazra/github-readme-stats">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
    </div>
 
 ## Minhas redes e contatos
