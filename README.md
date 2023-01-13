@@ -6,7 +6,7 @@
 > Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
 Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)]
+![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&count_private=true)
 
 ## Minhas redes e contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/KleitonLima)
