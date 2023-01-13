@@ -6,13 +6,7 @@
 > Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
 Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-<br>
-<div align="center">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonLima&show_icons=true&theme=vue-dark&custom_title=Kleiton's+Github+stats&count_private=true">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=vue-dark&langs_count=8">
-</div>
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)]
 
 ## Minhas redes e contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/KleitonLima)
