@@ -8,6 +8,7 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 
 ![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=chartreuse-dark&include_all_commits=true)](https://github.com/KleitonLima/github-readme-stats)
+[![Kleiton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KleitonLima&theme=chartreuse-dark&count_private=true)](https://github.com/KleitonLima/github-readme-stats)
 
 ## Minhas redes e contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/KleitonLima)
