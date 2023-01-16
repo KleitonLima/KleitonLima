@@ -6,7 +6,7 @@
 > Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
 Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
 
-![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true)
+![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&height=1000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=chartreuse-dark&include_all_commits=true&height=1000)](https://github.com/KleitonLima/github-readme-stats)
 
 ## Minhas redes e contatos
