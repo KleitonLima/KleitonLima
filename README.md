@@ -16,7 +16,7 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:kleiton.mini@gmail.com)
 
 <div align="center">
-  <img height="200" src="https://www.canva.com/design/DAFZ6Fm64zo/VH_0weujqaWDX8BX0awxPg/edit?utm_content=DAFZ6Fm64zo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
+  <img height="200" src="https://www.canva.com/design/DAFZ6Fm64zo/VH_0weujqaWDX8BX0awxPg/view?utm_content=DAFZ6Fm64zo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
 </div>
 
 - Obrigado, pela visita! ;)
