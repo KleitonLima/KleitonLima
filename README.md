@@ -1,10 +1,8 @@
 # Seja bem vindo! Eu sou o Kleiton!
 
-- Tenho 30 anos, sou cristão, casado e tenho uma filha de 5 anos.
-- Atualmente atuo como técnico em smartphones e desenvolvedor Full Stack em minha empresa a Smartize Assistência Técnica.
-- Estou concluindo o curso de Desenvolvimento Full Stack na Blue Edtech.
-> Sou um cara proativo que gosta de aprender tudo relacionado a minha área de atuação.
-Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pra não me tornar obsoleto.
+Sou cristão, tenho uma linda filha de 5 anos e sou casado com uma mulher incrível. Sou Desenvolvedor Full Stack formado pela BlueEdtech.
+Atualmente estou em busca de uma oportunidade de emprego e também desenvolvo o e-commerce da minha própria loja.
+Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
 
 ![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=chartreuse-dark&include_all_commits=true&height=1000)](https://github.com/KleitonLima/github-readme-stats)
