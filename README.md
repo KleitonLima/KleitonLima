@@ -15,4 +15,8 @@ Sou um entusiasta da tecnologia e busco sempre me atualizar com as novidades, pr
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=55+79+981397362&text=Olá,+Kleiton!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:kleiton.mini@gmail.com)
 
+<div align="center">
+  <img height="200" src="https://www.canva.com/design/DAFZ6Fm64zo/VH_0weujqaWDX8BX0awxPg/edit?utm_content=DAFZ6Fm64zo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
+</div>
+
 - Obrigado, pela visita! ;)
