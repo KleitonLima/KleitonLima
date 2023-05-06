@@ -1,7 +1,6 @@
 # Seja bem vindo! Eu sou o Kleiton!
 
 Sou cristão, tenho uma linda filha de 5 anos e sou casado com uma mulher incrível.
-
 Sou Desenvolvedor Full Stack formado pela BlueEdtech.
 Atualmente estou em busca de uma oportunidade de emprego e também desenvolvo outros projetos.
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
