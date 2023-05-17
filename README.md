@@ -9,7 +9,7 @@ Atualmente estou em busca de uma oportunidade de emprego e também desenvolvo ou
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
 
 
-![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&card_width=30px&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=chartreuse-dark&include_all_commits=true&height=1000)](https://github.com/KleitonLima/github-readme-stats)
 
 
