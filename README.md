@@ -1,6 +1,6 @@
-# Seja bem vindo! Eu sou o Kleiton!
+# Seja bem vinda(o)! Eu sou o Kleiton!
 
-Sou cristão, tenho uma linda filha de 5 anos e sou casado com uma mulher incrível.
+Sou cristão, tenho uma linda filha de 6 anos e sou casado com uma mulher incrível.
 
 Sou Desenvolvedor Full Stack formado pela BlueEdtech.
 
@@ -14,7 +14,7 @@ Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, 
 
 
 <div align="center">
-  <img height="auto" src="https://media.licdn.com/dms/image/D4D16AQEwMSjJmNanoA/profile-displaybackgroundimage-shrink_350_1400/0/1675790716376?e=1687996800&v=beta&t=lhjv29iWhdHUH417f_KfO1-5C0Xeo0xlJLKWVZGgS9g"  />
+  <img height="auto" src="[https://media.licdn.com/dms/image/D4D16AQEwMSjJmNanoA/profile-displaybackgroundimage-shrink_350_1400/0/1675790716376?e=1687996800&v=beta&t=lhjv29iWhdHUH417f_KfO1-5C0Xeo0xlJLKWVZGgS9g](https://media.licdn.com/dms/image/D4D16AQEwMSjJmNanoA/profile-displaybackgroundimage-shrink_350_1400/0/1675790716376?e=1698278400&v=beta&t=Qe2SQuOsasoAk9Rhlo2IipC430p47tBJhIL44ro3Srs)"  />
 </div>
 
 
