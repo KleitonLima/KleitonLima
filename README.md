@@ -5,7 +5,7 @@ Sou cristão, tenho uma linda filha de 6 anos e sou casado com uma mulher incrí
 Sou Desenvolvedor Full Stack formado pela BlueEdtech.
 
 Atualmente sou professor BackEnd na Inovation Academy e desenvolvo outros projetos.
-Como professor desenvolvo material didático, principalmente, sobre JavaScript com Node.js, Express.js e banco de dados MongoDB.
+Como professor desenvolvo material didático e faço gravação de aulas, principalmente, sobre JavaScript com Node.js, Express.js, banco de dados MongoDB, além de testes e segurança com diversos frameworks e ferramentas, como Jest e Supertest.
 
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
 
