@@ -12,7 +12,7 @@ Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, 
 
 
 <div align="center">
-  <img height="auto" src="https://media.licdn.com/dms/image/D4D16AQEwMSjJmNanoA/profile-displaybackgroundimage-shrink_350_1400/0/1675790716820?e=1706745600&v=beta&t=KLKCbkY4OcAtOjyV_ry1mreFi9242DfNHDOFA2fHgns"  />
+  <img height="auto" src="https://media.licdn.com/dms/image/D4D16AQHqELzkFwwenA/profile-displaybackgroundimage-shrink_350_1400/0/1701568608913?e=1707350400&v=beta&t=4vVRDX4A_fMMnorDpuK0iQmPP1_jZMbaiWZ6GiY-eyE"  />
 </div>
 
 
