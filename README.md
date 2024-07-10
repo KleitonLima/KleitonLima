@@ -1,6 +1,6 @@
 # Seja bem vinda(o)! Eu sou o Kleiton!
 
-Sou cristão, tenho uma linda filha de 6 anos e sou casado com uma mulher incrível.
+Sou cristão, tenho uma linda filha e sou casado com uma mulher incrível.
 
 Sou Desenvolvedor Full Stack na Scapets e Desenvolvedor Front End na Skula, estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul,
 fui professor BackEnd na Inovation Academy e sou Desenvolvedor Full Stack formado pela BlueEdtech.
