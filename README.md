@@ -2,7 +2,7 @@
 
 Sou cristão, tenho uma linda filha e sou casado com uma mulher incrível.
 
-Sou Desenvolvedor Full Stack na Scapets e Desenvolvedor Front End na Skula, estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul,
+Sou Desenvolvedor Full Stack na CodeFox e Desenvolvedor Front End na Skula, estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul,
 fui professor BackEnd na Inovation Academy e sou Desenvolvedor Full Stack formado pela BlueEdtech.
 
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
