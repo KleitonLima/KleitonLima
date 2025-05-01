@@ -2,8 +2,8 @@
 
 Sou cristão, tenho uma linda filha e sou casado com uma mulher incrível.
 
-Sou Desenvolvedor Full Stack na CodeFox e Desenvolvedor Vonluntário Front End na Skula, estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul,
-fui professor BackEnd na Inovation Academy e sou Desenvolvedor Full Stack formado pela BlueEdtech.
+Sou desenvolvedor full stack com mais de 1 ano e 4 meses de experiência profissional e 7 meses como professor back-end. Trabalhei no front-end com TypeScript e JavaScript no React puro e com templates como Chakra e Daisy Ui, além de utilizar Styled-Components, Tailwind e CSS puro para estilização. No back-end atuei com Node.js utilizando Express.js e NestJS ambos em TypeScript e JavaScript, com banco de dados PostgreSQL e MySQL. Além disso, utilizei diversas outras ferramentas como Docker para containers e n8n para automação e criação de chatbot utilizando IA.
+Estou no último ano da graduação em Analise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e sou formado em Desenvolvimento Full Stack pela Blue Edtech.
 
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
 
