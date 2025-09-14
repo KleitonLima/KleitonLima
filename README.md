@@ -2,7 +2,7 @@
 
 Sou cristão, sou casado com uma mulher incrível e tenho uma linda filha.
 
-Sou desenvolvedor full stack com mais de 1 ano e 6 meses de experiência profissional e 7 meses como professor back-end.
+Sou desenvolvedor full stack com mais de 1 ano e 8 meses de experiência profissional e 7 meses como professor back-end.
 Trabalho no front-end com TypeScript e JavaScript no React puro e com templates como Chakra e Daisy Ui, além de utilizar Styled-Components, Tailwind e CSS puro para estilização.
 No back-end atuo com Node.js utilizando Express.js e NestJS ambos em TypeScript e JavaScript, com banco de dados PostgreSQL e MySQL.
 Além disso, utilizei diversas outras ferramentas como Docker para containers e n8n para automação e criação de chatbot utilizando IA.
