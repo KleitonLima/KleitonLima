@@ -12,7 +12,7 @@ Estou no último ano da graduação em Análise e Desenvolvimento de Sistemas pe
 Tenho muita vontade de aprender, sou um cara proativo, gosto de novos desafios, aceito facilmente sugestões e críticas para evolução e me dedico muito no que faço buscando sempre dar o meu melhor.
 
 
-![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&theme=chartreuse-dark)
+![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KleitonLima&theme=chartreuse-dark&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonLima&layout=compact&theme=chartreuse-dark&include_all_commits=true&height=1000)](https://github.com/KleitonLima/github-readme-stats)
 
 
